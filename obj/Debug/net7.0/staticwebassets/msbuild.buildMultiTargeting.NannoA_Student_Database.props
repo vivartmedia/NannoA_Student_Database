@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NannoA_Student_Database.props" />
+</Project>

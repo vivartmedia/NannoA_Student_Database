@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\CodeStack\\Level 2\\week2_API_SQL_Database\\D5 DataBase SQL\\assignment\\NannoA_Student_Database\\NannoA_Student_Database.csproj": {}
+  },
+  "projects": {
+    "G:\\CodeStack\\Level 2\\week2_API_SQL_Database\\D5 DataBase SQL\\assignment\\NannoA_Student_Database\\NannoA_Student_Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\CodeStack\\Level 2\\week2_API_SQL_Database\\D5 DataBase SQL\\assignment\\NannoA_Student_Database\\NannoA_Student_Database.csproj",
+        "projectName": "NannoA_Student_Database",
+        "projectPath": "G:\\CodeStack\\Level 2\\week2_API_SQL_Database\\D5 DataBase SQL\\assignment\\NannoA_Student_Database\\NannoA_Student_Database.csproj",
+        "packagesPath": "C:\\Users\\nanno\\.nuget\\packages\\",
+        "outputPath": "G:\\CodeStack\\Level 2\\week2_API_SQL_Database\\D5 DataBase SQL\\assignment\\NannoA_Student_Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nanno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0-rc.1.22426.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.0-rc.1.22426.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
